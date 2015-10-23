@@ -13,9 +13,10 @@ Requirements
 
 
 The MD5 is as follows
-MD5 (./ZIP/kafka-manager-1.2.9.10.zip) = 578bbaa7bd4074e96ffb3fe806806850
 
-MD5 (./RPMS/kafka-manager-1.2.9.10-1.noarch.rpm) = 4d33678f52db6d98d02b8e26a7824af4
+./ZIP/kafka-manager-1.2.9.10.zip = 578bbaa7bd4074e96ffb3fe806806850
+
+./RPMS/kafka-manager-1.2.9.10-1.noarch.rpm = 4d33678f52db6d98d02b8e26a7824af4
 
 ===========================================================================
 
