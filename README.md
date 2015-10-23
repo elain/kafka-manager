@@ -1,3 +1,25 @@
+===========================================================================
+
+Due to the network of Chinese reasons, It's hard to use the sbt package to succeed, 
+
+So I put a good zip and RPM package to share out, for everyone to use!
+
+Requirements
+------------
+
+1. [Kafka 0.8.1.1 or 0.8.2.1](http://kafka.apache.org/downloads.html)
+2. [sbt 0.13.x](http://www.scala-sbt.org/download.html)
+3. Java 8+
+
+
+The MD5 is as follows
+MD5 (./ZIP/kafka-manager-1.2.9.10.zip) = 578bbaa7bd4074e96ffb3fe806806850
+
+MD5 (./RPMS/kafka-manager-1.2.9.10-1.noarch.rpm) = 4d33678f52db6d98d02b8e26a7824af4
+
+===========================================================================
+
+
 Kafka Manager
 =============
 
